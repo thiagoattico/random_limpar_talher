@@ -1,0 +1,10 @@
+C:\Users\thiago.attico\source\repos\SorteadorDeLimparTalher\SorteadorDeLimparTalher\bin\Debug\SorteadorDeLimparTalher.exe.config
+C:\Users\thiago.attico\source\repos\SorteadorDeLimparTalher\SorteadorDeLimparTalher\bin\Debug\SorteadorDeLimparTalher.exe
+C:\Users\thiago.attico\source\repos\SorteadorDeLimparTalher\SorteadorDeLimparTalher\bin\Debug\SorteadorDeLimparTalher.pdb
+C:\Users\thiago.attico\source\repos\SorteadorDeLimparTalher\SorteadorDeLimparTalher\obj\Debug\SorteadorDeLimparTalher.csprojAssemblyReference.cache
+C:\Users\thiago.attico\source\repos\SorteadorDeLimparTalher\SorteadorDeLimparTalher\obj\Debug\SorteadorDeLimparTalher.Form1.resources
+C:\Users\thiago.attico\source\repos\SorteadorDeLimparTalher\SorteadorDeLimparTalher\obj\Debug\SorteadorDeLimparTalher.Properties.Resources.resources
+C:\Users\thiago.attico\source\repos\SorteadorDeLimparTalher\SorteadorDeLimparTalher\obj\Debug\SorteadorDeLimparTalher.csproj.GenerateResource.cache
+C:\Users\thiago.attico\source\repos\SorteadorDeLimparTalher\SorteadorDeLimparTalher\obj\Debug\SorteadorDeLimparTalher.csproj.CoreCompileInputs.cache
+C:\Users\thiago.attico\source\repos\SorteadorDeLimparTalher\SorteadorDeLimparTalher\obj\Debug\SorteadorDeLimparTalher.exe
+C:\Users\thiago.attico\source\repos\SorteadorDeLimparTalher\SorteadorDeLimparTalher\obj\Debug\SorteadorDeLimparTalher.pdb
